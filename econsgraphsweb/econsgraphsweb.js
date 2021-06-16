@@ -139,6 +139,7 @@ function setup() {
   subMainTextMode =new newButtonContainer('hidden','subMainLineContainer','flexWrapContainerSubMain',attributeListTextMode, 'newSubMainPreset');
   subMainShadeMode =new newButtonContainer('hidden','subMainLineContainer','flexWrapContainerSubMain',attributeListShadeMode, 'newSubMainPreset');
   background(bg);
+  
 }
 
 function draw() {
